@@ -136,8 +136,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Original concept by FollowTheSapper
-- Expanded and ported to Python by [Your Name]
+- Original concept by Dylan Vaca
 
 ## Disclaimer
 
