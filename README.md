@@ -16,7 +16,7 @@ VulndowsPen is a comprehensive Python-based tool for configuring Windows vulnera
 1. Ensure you have Python 3.7+ installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/VulndowsPen.git
+   git clone https://github.com/followthesapper/VulndowsPen.git
    cd VulndowsPen
    ```
 3. Install the required dependencies:
@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Original concept by Dylan Vaca
+- Created by FollowTheSapper
 
 ## Disclaimer
 
