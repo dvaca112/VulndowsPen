@@ -97,7 +97,7 @@ class VulndowsPenGUI:
 
         # Load the logo.svg file
         logo_image = Image.open(".\\hacker.png")
-        self.logo_image = ctk.CTkImage(logo_image, size=(24, 24))
+        self.logo_image = ctk.CTkImage(logo_image, size=(50, 50))
         title_label = ctk.CTkLabel(self.main_frame, text="VulndowsPen", font=ctk.CTkFont(size=24, weight="bold"), text_color="#FF474C", image=self.logo_image, compound="left")
         title_label.grid(row=0, column=0, pady=10)
 
