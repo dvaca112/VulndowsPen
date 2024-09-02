@@ -1,6 +1,6 @@
-# VulndowsPen
+# <img src="hacker.png" alt="logo" width="50"/> VulndowsPen
 
-VulndowsPen is a comprehensive Python-based tool for configuring Windows vulnerabilities for penetration testing and educational purposes. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for applying a wide range of vulnerability configurations to a Windows system.
+<span style="color:#FF474C; font-size:24px; font-weight:bold;">VulndowsPen</span> is a comprehensive Python-based tool for configuring Windows vulnerabilities for penetration testing and educational purposes. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for applying a wide range of vulnerability configurations to a Windows system. I created this tools for ease of use for whenever I wanted to spin up a purposely vulrnerable virtual machine for penetration testing.
 
 ## Features
 
@@ -11,9 +11,13 @@ VulndowsPen is a comprehensive Python-based tool for configuring Windows vulnera
 - Logging system for tracking applied vulnerabilities
 - Configuration file for persistent settings
 
+## Prerequisites
+1. Python 3.10+ [Download Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe) (md5: c3917c08a7fe85db7203da6dcaa99a70)
+2. Git [Download Git](https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe)
+
 ## Installation
 
-1. Ensure you have Python 3.7+ installed on your system.
+1. Ensure you have Python 3.10+ installed on your system.
 2. Clone this repository:
    ```
    git clone https://github.com/followthesapper/VulndowsPen.git
@@ -136,7 +140,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Created by FollowTheSapper
+- Created by FollowTheSapper - 2024
 
 ## Disclaimer
 
