@@ -6,7 +6,7 @@ VulndowsPen is a comprehensive Python-based tool for configuring Windows vulnera
 
 - GUI for easy configuration of vulnerabilities
 - CLI support for scripting and automation
-- Multiple difficulty presets (Easy, Medium, Hard, Insane)
+- Multiple difficulty presets (Babies Only, Easy, Somewhat Easy, Medium, Medium-ish, Hard, Harder, Epic)
 - Extensive set of vulnerability options (70+)
 - Logging system for tracking applied vulnerabilities
 - Configuration file for persistent settings
