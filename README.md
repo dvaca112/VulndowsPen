@@ -1,6 +1,6 @@
 # <img src="hacker.png" alt="logo" width="50"/> VulndowsPen
 
-<span style="color:#FF474C; font-size:24px; font-weight:bold;">VulndowsPen</span> is a comprehensive Python-based tool for configuring Windows vulnerabilities for penetration testing and educational purposes. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for applying a wide range of vulnerability configurations to a Windows system. I created this tools for ease of use for whenever I wanted to spin up a purposely vulrnerable virtual machine for penetration testing.
+<span style="color:#FF474C; font-size:24px; font-weight:bold;">VulndowsPen</span> is a comprehensive Python-based tool for configuring Windows vulnerabilities for penetration testing and educational purposes. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for applying a wide range of vulnerability configurations to a Windows system. I created this tool for ease of use for whenever I wanted to spin up a purposely vulnerable virtual machine for penetration testing.
 
 ## Features
 
